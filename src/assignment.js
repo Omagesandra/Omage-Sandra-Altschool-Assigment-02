@@ -43,6 +43,7 @@ function countEvenNumbers(arrayOfNumbers) {
   };
   
     return count;
+  
 }
  assignment.countEvenNumbers = countEvenNumbers;
 
