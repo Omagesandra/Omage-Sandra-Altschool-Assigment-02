@@ -41,6 +41,7 @@ function countEvenNumbers(arrayOfNumbers) {
       count.push(arrayOfNumbers[i]);
     };
   };
+  
     return count.length;
 }
  assignment.countEvenNumbers = countEvenNumbers;
